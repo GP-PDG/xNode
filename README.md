@@ -1,3 +1,5 @@
+<details>
+<summary>Original MD</summary>
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/37786733/41541140-71602302-731a-11e8-9434-79b3a57292b6.png">
 
 [![Discord](https://img.shields.io/discord/361769369404964864.svg)](https://discord.gg/qgPrHv4)
@@ -119,3 +121,4 @@ Plugins are repositories that add functionality to xNode
 ### Community
 Join the [Discord](https://discord.gg/qgPrHv4 "Join Discord server") server to leave feedback or get support.
 Feel free to also leave suggestions/requests in the [issues](https://github.com/Siccity/xNode/issues "Go to Issues") page.
+</details>
